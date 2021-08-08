@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "id": "b990ae6c-049a-4eb9-869b-d8abeb630651",
+      "name": "Manish gupta",
+      "email": "manish.gupta@accolitedigital.com"
+    },
+    {
+      "id": "59a56b98-d4c5-44b0-9b35-9592a9cce336",
+      "name": "Random",
+      "email": "Random@random.com"
+    },
+    {
+      "id": "f7104b74-da84-4197-a7e8-3a485c6227a0",
+      "name": "Dev Kapoor 2",
+      "email": "Dev@outlook.com"
+    },
+    {
+      "id": "2d6eb137-755f-4978-8959-15186934895f",
+      "name": "hi23",
+      "email": "manish270896@gmail.com"
+    },
+    {
+      "id": "ab6c012a-adfa-4a9a-9c0c-2c54785790db",
+      "name": "a",
+      "email": "123"
+    }
+  ]
+}
